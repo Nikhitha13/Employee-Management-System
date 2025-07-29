@@ -22,7 +22,7 @@ User(employee)
 
 1. Clone the repo or Download the ZIP:
 2. Open the project folder.
-3. Run the main Python file in visual studio code or Pycharm
+3. Run the home Python file in visual studio code or Pycharm
 
 > Make sure Python and Tkinter are installed.
 
